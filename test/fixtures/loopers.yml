@@ -1,0 +1,16 @@
+# == Schema Information
+#
+# Table name: loopers
+#
+#  id         :bigint           not null, primary key
+#  count      :decimal(, )      default(0.0), not null
+#  name       :string
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+
+one:
+  name: MyString
+
+two:
+  name: MyString
